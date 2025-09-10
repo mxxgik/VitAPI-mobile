@@ -25,7 +25,7 @@ const RegisterScreen = ({navigation}) => {
     return (
         <SafeAreaView style={styles.container}>
             <ScrollView style={styles.scrollView}>
-                <Text style={styles.title}>Registro</Text>
+                <Text style={styles.title}>Register</Text>
 
                 <TextInput
                     style={styles.input}
